@@ -25,11 +25,11 @@ These commands will install RDKit, scikit-learn, and the Pandas and NumPy librar
 3. Modify the data storage paths in the code to point to your data files.
 4. Run the main Python script to train the model and predict retention times.
 
-   For example, if the main script is named `main.py`, you can run it with the following command:
 
-   ```bash
-   python main.py
-   ```
+
+```bash
+python Trains.py
+```
 
 Ensure that your data files match the expected format and that the paths are correctly set.
 
