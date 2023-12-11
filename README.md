@@ -1,7 +1,3 @@
-Sure, here's a README in English formatted for your project. You can directly copy and use it for your repository:
-
----
-
 # Compound Retention Time Regression Prediction
 
 ## Overview
@@ -44,6 +40,4 @@ If you encounter any issues or have suggestions while using this project, please
 - Email: 
 - GitHub:
 
----
 
-This README template provides an overview of the project, installation instructions, steps to run the project, and contact information. Feel free to modify and expand this template to better suit your project's needs.
